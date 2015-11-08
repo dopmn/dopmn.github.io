@@ -178,12 +178,13 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/header.jpg);
+    background-image: url('http://digitalmofo.com/wp-content/plugins/rss-poster/cache/4c194_sketch-ios-9-b1-ui-kit.png');
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    box-shadow: 0px 1300px rgba(0, 0, 0, 0.8) inset;
 }
 
 header .header-content {
